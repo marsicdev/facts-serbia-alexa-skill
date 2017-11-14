@@ -1,0 +1,44 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "Serbia facts",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "GetNewFactIntent",
+          "samples": [
+            "a fact",
+            "a serbia fact",
+            "tell me a fact",
+            "tell me an interesting fact",
+            "tell me a serbia fact",
+            "give me a fact",
+            "give me an interesting fact",
+            "give me a serbia fact",
+            "tell me trivia",
+            "tell me a serbia trivia",
+            "give me trivia",
+            "give me a serbia trivia",
+            "give me some information",
+            "give me some information about serbia",
+            "give me some serbia information",
+            "tell me something",
+            "give me something"
+          ],
+          "slots": []
+        }
+      ]
+    }
+  }
+}

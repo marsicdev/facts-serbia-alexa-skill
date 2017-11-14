@@ -1,0 +1,20 @@
+{
+  "name": "facts-serbia-alexa-skill",
+  "version": "1.0.0",
+  "description": "Sample version of fact skill.",
+  "author": "Marko Arsic",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "fact",
+    "serbia"
+  ],
+  "dependencies": {
+    "alexa-sdk": "^1.0.20"
+  }
+}
